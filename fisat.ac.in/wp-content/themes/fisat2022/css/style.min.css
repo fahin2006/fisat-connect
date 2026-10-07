@@ -113,12 +113,12 @@ a:hover {
 }
 
 #fisat-modern-header .nav-inner {
-  max-width: 1200px;
+  max-width: 100%;
   width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 2rem;
+  padding: 0 1rem;
 }
 
 #fisat-modern-header .nav-logo {
@@ -159,10 +159,10 @@ a:hover {
 
 #fisat-modern-header .nav-menu > li > a {
   display: block;
-  padding: 0.5rem 0.9rem;
+  padding: 0.4rem 0.6rem;
   color: var(--text-main) !important;
   font-weight: 500;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   border-radius: var(--radius-sm);
   transition: var(--transition);
   white-space: nowrap;
